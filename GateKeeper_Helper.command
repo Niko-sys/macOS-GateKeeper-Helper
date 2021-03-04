@@ -1,7 +1,7 @@
 #!/bin/zsh
 
 #Attribute
-GITHUB_URL="https://github.com/wynioux/macOS-GateKeeper-Helper"
+
 RELEASE_VERSION="v1.2.2"
 ROOT_PASSWORD=0
 
